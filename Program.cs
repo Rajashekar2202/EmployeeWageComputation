@@ -4,8 +4,9 @@
     {
         public static void Main(string[] args)
         {
-            CalculateDailyageSwitchCase calculateDailyageSwitchCase = new CalculateDailyageSwitchCase();
-            calculateDailyageSwitchCase.Calculate();
+            CalculateMonthWage calculateMonthWage = new CalculateMonthWage();
+            calculateMonthWage.Calculate();
+            
         }
     }
 }
