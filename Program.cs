@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            CheckAttendance checkAttendance = new CheckAttendance();
-            checkAttendance.Check();
+            CalculateDailyWage calculateDailyWage = new CalculateDailyWage();
+            calculateDailyWage.Calculate();
         }
     }
 }
