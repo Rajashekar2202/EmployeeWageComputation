@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            AddPartTimeEmployee addPartTimeEmployee = new AddPartTimeEmployee();
-            addPartTimeEmployee.Add();
+            CalculateDailyageSwitchCase calculateDailyageSwitchCase = new CalculateDailyageSwitchCase();
+            calculateDailyageSwitchCase.Calculate();
         }
     }
 }
