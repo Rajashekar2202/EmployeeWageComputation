@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            CalculateMonthWage calculateMonthWage = new CalculateMonthWage();
-            calculateMonthWage.Calculate();
+            CalculateWageByHrs calculateWageByHrs = new CalculateWageByHrs();
+            calculateWageByHrs.Calculate();
             
         }
     }
